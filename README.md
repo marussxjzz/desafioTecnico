@@ -109,7 +109,7 @@ El API Swagger se abre en:
 - [Ejemplo Swagger](https://petstore.swagger.io/#/)
 
 ```SQLite```
-- [Documentación SQLite](https://sqlite.org/)
+- [Documentación SQLite](https://www.npmjs.com/package/sqlite3)
 
 ```TypeORM```
 - [Documentación TypeORM](https://typeorm.io/)
