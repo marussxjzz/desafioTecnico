@@ -9,7 +9,7 @@ Desafío técnico: Creé una API RESTful para gestionar libros, autores y editor
 ## **Tecnologías usadas**
 
 - **Backend Framework**: [NestJS](https://nestjs.com/)
-- **Database**: PostgreSQL
+- **Database**: SQLite
 - **ORM**: [TypeORM](https://typeorm.io/)
 - **Languaje**: TypeScript
 - **Testing Framework**: [Jest](https://jestjs.io/)
@@ -42,7 +42,7 @@ Desafío técnico: Creé una API RESTful para gestionar libros, autores y editor
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/)
-- [PostgreSQL](https://www.postgresql.org/)
+- [SQLite](https://sqlite.org/)
 
 ---
 
@@ -108,8 +108,8 @@ El API Swagger se abre en:
 - [Integración NestJS Swagger](https://docs.nestjs.com/openapi/introduction)
 - [Ejemplo Swagger](https://petstore.swagger.io/#/)
 
-```PostgreSQL```
-- [Documentación PostgreSQL](https://www.postgresql.org/docs/)
+```SQLite```
+- [Documentación SQLite](https://sqlite.org/)
 
 ```TypeORM```
 - [Documentación TypeORM](https://typeorm.io/)
